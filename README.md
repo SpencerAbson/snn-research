@@ -30,6 +30,7 @@
 - GeNN [[paper](https://www.nature.com/articles/srep18854)], [[repo](https://github.com/genn-team/genn)].
 - Brian [[paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/neuro.11.005.2008/full)].
 - Brian2 [[artical](https://elifesciences.org/articles/47314)], [[repo](https://github.com/brian-team/brian2)].
+- Norse [[docs](https://norse.github.io/norse/)], [[repo](https://github.com/norse/norse)], [[tutorials](https://norse.github.io/notebooks/README.html)].
 
 ## Supplementary Tools
 - Tonic [[repo](https://github.com/neuromorphs/tonic)].
