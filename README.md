@@ -14,7 +14,7 @@
 
 ## Neuromorphic Hardware
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding [[paper](https://ieeexplore.ieee.org/abstract/document/7128412)].
-- The SpiNNaker Project [[project overview](https://ieeexplore.ieee.org/abstract/document/6750072)], [[programming SpiNNaker](Algorithm and Software for Simulation of Spiking Neural Networks on the Multi-Chip SpiNNaker System)].
+- The SpiNNaker Project [[project overview](https://ieeexplore.ieee.org/abstract/document/6750072)], [[programming SpiNNaker](https://ieeexplore.ieee.org/document/5596759/)].
 
 ## Applied
 - Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera [[paper](https://arxiv.org/html/2403.10677v1)].
