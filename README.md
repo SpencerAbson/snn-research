@@ -21,6 +21,7 @@
 - Real-time event-driven spiking neural network object recognition on the SpiNNaker platform [[paper](https://ieeexplore.ieee.org/document/7169171)].
 - An Analytical Estimation of Spiking Neural Networks Energy Efficiency [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_48)].
 - Real-time cortical simulation on neuromorphic hardware (SpiNNaker) [[paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0160)].
+- Efficient parameter calibration and real-time simulation of large-scale spiking neural networks with GeNN and NEST [[paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.941696/full)].
 
 ## Simulation/Modelling Tools
 - snntorch [[paper](https://arxiv.org/abs/2109.12894)], [[repo](https://github.com/jeshraghian/snntorch)].
