@@ -12,6 +12,9 @@
 ## Neural Coding Schemes
 - Neural Coding in Spiking Neural Networks: A Comparative Study for Robust Neuromorphic Systems [[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.638474/full)].
 
+## Connectivity Schemes
+- Larger GPU-accelerated brain simulations with procedural connectivity [[paper](https://sussex.figshare.com/articles/journal_contribution/Larger_GPU-accelerated_brain_simulations_with_procedural_connectivity/23479862?file=41188901)].
+
 ## Neuromorphic Hardware
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding [[paper](https://ieeexplore.ieee.org/abstract/document/7128412)].
 - The SpiNNaker Project [[project overview](https://ieeexplore.ieee.org/abstract/document/6750072)], [[programming SpiNNaker](https://ieeexplore.ieee.org/document/5596759/)].
