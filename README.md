@@ -38,3 +38,8 @@
 
 ## Supplementary Tools
 - Tonic [[repo](https://github.com/neuromorphs/tonic)].
+
+## Data/Model Representation
+- NIR - Neuromorphic Intermediate Representation [[docs](https://neuroir.org/docs/index.html)].
+- PyNN [[repo](https://github.com/NeuralEnsemble/PyNN/)].
+- Prophesee RAW (sensor data format) [[docs](https://docs.prophesee.ai/stable/data/file_formats/raw.html)].
