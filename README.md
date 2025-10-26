@@ -26,6 +26,7 @@
 - Real-time cortical simulation on neuromorphic hardware (SpiNNaker) [[paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0160)].
 - Efficient parameter calibration and real-time simulation of large-scale spiking neural networks with GeNN and NEST [[paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.941696/full)].
 - Low-Latency Scalable Streaming for Event-Based Vision [[paper](https://arxiv.org/html/2412.07889v1)].
+- Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation [[paper](https://arxiv.org/abs/2411.17006)], [[repo](https://github.com/radlab-sketch/Event-SNN-Resources)].
 
 ## Simulation/Modelling Tools
 - snntorch [[paper](https://arxiv.org/abs/2109.12894)], [[repo](https://github.com/jeshraghian/snntorch)].
