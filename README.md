@@ -16,6 +16,9 @@
 ## Connectivity Schemes
 - Larger GPU-accelerated brain simulations with procedural connectivity [[paper](https://sussex.figshare.com/articles/journal_contribution/Larger_GPU-accelerated_brain_simulations_with_procedural_connectivity/23479862?file=41188901)].
 
+## Network Compute Schemes
+- PipeDream: Generalized Pipeline Parallelism for DNN Training (applicable to inference) [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/08/pipedream.pdf)].
+
 ## Neuromorphic Hardware
 - A Dynamic Vision Sensor With 1% Temporal Contrast Sensitivity and In-Pixel Asynchronous Delta Modulator for Event Encoding [[paper](https://ieeexplore.ieee.org/abstract/document/7128412)].
 - The SpiNNaker Project [[project overview](https://ieeexplore.ieee.org/abstract/document/6750072)], [[programming SpiNNaker](https://ieeexplore.ieee.org/document/5596759/)].
