@@ -7,6 +7,7 @@
 - Spiking Neural Networks and Their Applications: A Review [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9313413/)].
 - Are SNNs Really More Energy-Efficient Than ANNs? an In-Depth Hardware-Aware Study [[paper](https://ieeexplore.ieee.org/document/9927729)].
 - Networks of spiking neurons: The third generation of neural network models [[paper](https://www.sciencedirect.com/science/article/pii/S0893608097000117)].
+- Efficient Processing of Deep Neural Networks [[book](https://link.springer.com/book/10.1007/978-3-031-01766-7)].
 
 ## Neuron Models
 - Leaky integrate-and-fire [[practical](https://snntorch.readthedocs.io/en/latest/tutorials/tutorial_2.html)].
