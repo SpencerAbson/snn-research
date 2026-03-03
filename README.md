@@ -5,6 +5,7 @@
 - Spiking neural networks, an introduction [[paper](https://webdoc.sub.gwdg.de/ebook/serien/ah/UU-CS/2003-008.pdf)].
 - Training Spiking Neural Networks Using Lessons From Deep Learning [[paper](https://arxiv.org/abs/2109.12894)].
 - Spiking Neural Networks and Their Applications: A Review [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9313413/)].
+- Are SNNs Really More Energy-Efficient Than ANNs? an In-Depth Hardware-Aware Study [[paper](https://ieeexplore.ieee.org/document/9927729)].
 
 ## Neuron Models
 - Leaky integrate-and-fire [[practical](https://snntorch.readthedocs.io/en/latest/tutorials/tutorial_2.html)].
