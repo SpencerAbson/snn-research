@@ -37,6 +37,7 @@
 - Low-Latency Scalable Streaming for Event-Based Vision [[paper](https://arxiv.org/html/2412.07889v1)].
 - Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation [[paper](https://arxiv.org/abs/2411.17006)], [[repo](https://github.com/radlab-sketch/Event-SNN-Resources)].
 - Real-time classification and sensor fusion with a spiking deep belief network [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3792559/)].
+- Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using [[paper](https://arxiv.org/pdf/2504.06748)].
 
 ## Simulation/Modelling Tools
 - snntorch [[paper](https://arxiv.org/abs/2109.12894)], [[repo](https://github.com/jeshraghian/snntorch)].
