@@ -56,3 +56,6 @@
 - NIR - Neuromorphic Intermediate Representation [[docs](https://neuroir.org/docs/index.html)].
 - PyNN [[repo](https://github.com/NeuralEnsemble/PyNN/)].
 - Prophesee RAW (sensor data format) [[docs](https://docs.prophesee.ai/stable/data/file_formats/raw.html)].
+
+## Misc
+- Training Deep Spiking Neural Networks Using Backpropagation (the FCSNN in the NMNIST benchmark) [[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00508/full)].
