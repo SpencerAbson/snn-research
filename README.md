@@ -49,6 +49,10 @@
 - Brian2 [[artical](https://elifesciences.org/articles/47314)], [[repo](https://github.com/brian-team/brian2)].
 - Norse [[docs](https://norse.github.io/norse/)], [[repo](https://github.com/norse/norse)], [[tutorials](https://norse.github.io/notebooks/README.html)].
 
+## Simulation Approaches
+- A Spiking Neural Simulator Integrating Event-Driven and Time-Driven Computation Schemes Using Parallel CPU-GPU Co-Processing: A Case Study [[paper](https://ieeexplore.ieee.org/document/6883192)].
+- Event- and Time-Driven Techniques Using Parallel CPU-GPU Co-processing for Spiking Neural Networks [[paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2017.00007/full#B35)].
+
 ## Supplementary Tools
 - Tonic [[repo](https://github.com/neuromorphs/tonic)].
 
